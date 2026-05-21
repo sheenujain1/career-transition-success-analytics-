@@ -37,8 +37,8 @@ Key Insights
 6) Advanced degrees alone do not guarantee successful career switching.
 
 Future Improvements:
-Machine Learning prediction model for transition success probability
-Time-series workforce analysis
-Resume skill-matching engine
-Industry trend forecasting
-Employee recommendation system
+1) Machine Learning prediction model for transition success probability
+2) Time-series workforce analysis
+3) Resume skill-matching engine
+4) Industry trend forecasting
+5) Employee recommendation system
